@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{5AEA453E-083A-4D95-8A60-35E6EE5DA105}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Service/Service/AccountService.cs">
+    <Files>
+      <File FileName="DLL_Abstarction.Hometask/Program.cs" />
+      <File FileName="Domain/Models/BaseEntity.cs" />
+      <File FileName="Domain/Models/User.cs" />
+      <File FileName="Service/Service/AccountService.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DLL_Abstarction.Hometask" expanded="True">
+            <Node name="DLL_Abstarction.Hometask" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Helpers" expanded="True">
+                <Node name="Constans" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="Service" expanded="True">
+                <Node name="AccountService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DLL__Abstarction.Hometask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
