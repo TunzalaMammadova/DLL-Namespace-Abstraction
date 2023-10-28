@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/Enum.Generics-Practice.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/Enum.Generics-Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/Enum.Generics-Practice.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/Enum.Generics-Practice.AssemblyInfo.cs
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/Enum.Generics-Practice.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/bin/Debug/net6.0/Enum.Generics-Practice
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/bin/Debug/net6.0/Enum.Generics-Practice.deps.json
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/bin/Debug/net6.0/Enum.Generics-Practice.runtimeconfig.json
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/bin/Debug/net6.0/Enum.Generics-Practice.dll
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/bin/Debug/net6.0/Enum.Generics-Practice.pdb
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/Enum.Generics-Practice.dll
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/refint/Enum.Generics-Practice.dll
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/Enum.Generics-Practice.pdb
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/Enum.Generics-Practice.genruntimeconfig.cache
+/Users/tunzale/Projects/Enum.Generics-Practice/Enum.Generics-Practice/obj/Debug/net6.0/ref/Enum.Generics-Practice.dll

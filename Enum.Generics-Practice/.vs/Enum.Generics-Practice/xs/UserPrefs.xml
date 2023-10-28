@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{65E50A4B-CF57-4EEC-9EB7-C94635AB8C80}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enum.Generics-Practice/Person.cs">
+    <Files>
+      <File FileName="Enum.Generics-Practice/Program.cs" Line="7" Column="1" />
+      <File FileName="Enum.Generics-Practice/DataList.cs" Line="4" Column="42" />
+      <File FileName="Enum.Generics-Practice/Person.cs" Line="3" Column="1" />
+      <File FileName="Enum.Generics-Practice/Repository.cs" Line="21" Column="1" />
+      <File FileName="Enum.Generics-Practice/BaseEntity.cs" Line="10" Column="1" />
+      <File FileName="Enum.Generics-Practice/Student.cs" Line="8" Column="2" />
+      <File FileName="Enum.Generics-Practice/PaymentType.cs" Line="4" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Enum.Generics-Practice" expanded="True">
+            <Node name="Enum.Generics-Practice">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Enum.Generics-Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
